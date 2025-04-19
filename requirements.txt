@@ -1,0 +1,7 @@
+flask
+whoosh
+spacy
+transformers
+torch
+python-docx
+pymupdf
