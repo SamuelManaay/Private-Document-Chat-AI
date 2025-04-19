@@ -128,5 +128,5 @@ MIT — free for personal and commercial use.
 
 ## ✨ Credits
 
-Built by [Your Name]  
+Built by Samuel Mana-ay  
 Powered by Open Source AI 🧠
